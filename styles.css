@@ -1,0 +1,53 @@
+body{
+    background-image: url(/wallpaperbetter.com_1920x1080\ \(1\).jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+a{
+    display: flex;
+    margin-top:  2rem;
+    justify-content: center;
+    text-decoration: none !important;
+    
+}
+.btn_lalo{
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 58%, rgba(192,252,209,1) 99%);
+    padding: 1rem;
+    border-radius: 3rem;
+    color: #000000;
+    text-decoration: none !important; 
+   
+
+}
+h1{
+    display: flex;
+    color: aliceblue;
+    margin: 0 auto;
+
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    display: flex;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+ 
+    border-radius: 4rem;
+    height: 300px;
+
+    background-color: rgba(31, 30, 30, 0.8);
+}
+
